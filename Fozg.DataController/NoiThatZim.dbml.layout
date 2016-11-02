@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="NoiThatZim">
+  <DataContextMoniker Name="/NoiThatZimDataContext" />
+  <nestedChildShapes>
+    <classShape Id="81f5cbaa-9e4c-41ab-97c6-2abe10640d17" absoluteBounds="2.375, 1.875, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/NoiThatZimDataContext/Account" />
+      <nestedChildShapes>
+        <elementListCompartment Id="775adfee-c7ec-4886-ba05-178d70148207" absoluteBounds="2.39, 2.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5e7ab213-6364-41ca-a90b-3cb5db0941b0" absoluteBounds="4.125, 4.875, 2, 3.1170068359375">
+      <DataClassMoniker Name="/NoiThatZimDataContext/New" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5466e9ec-4a7e-46e2-b244-41dec3b6970b" absoluteBounds="4.14, 5.335, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.2499995 : 4.22280110677083); (3.2499995 : 6.43350341796875); (4.125 : 6.43350341796875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NoiThatZimDataContext/Account/Account_New" />
+      <nodes>
+        <classShapeMoniker Id="81f5cbaa-9e4c-41ab-97c6-2abe10640d17" />
+        <classShapeMoniker Id="5e7ab213-6364-41ca-a90b-3cb5db0941b0" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

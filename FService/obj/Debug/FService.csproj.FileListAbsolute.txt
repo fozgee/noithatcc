@@ -1,0 +1,44 @@
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\roslyn\csc.exe
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\roslyn\vbc.exe
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\roslyn\VBCSCompiler.exe
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\FService.dll.config
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\FService.dll
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\FService.pdb
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\obj\Debug\FService.csprojResolveAssemblyReference.cache
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\obj\Debug\FService.dll
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\obj\Debug\FService.pdb
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\Fozg.DataController.dll
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\FService\bin\Fozg.DataController.pdb
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\roslyn\csc.exe
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\roslyn\vbc.exe
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\roslyn\VBCSCompiler.exe
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\FService.dll.config
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\FService.dll
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\FService.pdb
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\Fozg.DataController.dll
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\Fozg.DataController.pdb
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\obj\Debug\FService.csprojResolveAssemblyReference.cache
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\obj\Debug\FService.dll
+C:\Users\fozg\Desktop\Code\NoiThatCC\FService\obj\Debug\FService.pdb

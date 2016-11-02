@@ -1,0 +1,5 @@
+C:\Users\fozg\Downloads\ckeditor_aspnet_3.6.6.2\CKEditor.NET\bin\Debug\CKEditor.NET.dll
+C:\Users\fozg\Downloads\ckeditor_aspnet_3.6.6.2\CKEditor.NET\bin\Debug\CKEditor.NET.pdb
+C:\Users\fozg\Downloads\ckeditor_aspnet_3.6.6.2\CKEditor.NET\obj\Debug\CKEditor.NET.csprojResolveAssemblyReference.cache
+C:\Users\fozg\Downloads\ckeditor_aspnet_3.6.6.2\CKEditor.NET\obj\Debug\CKEditor.NET.dll
+C:\Users\fozg\Downloads\ckeditor_aspnet_3.6.6.2\CKEditor.NET\obj\Debug\CKEditor.NET.pdb

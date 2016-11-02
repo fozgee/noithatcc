@@ -1,0 +1,19 @@
+﻿.ui-datepicker {
+    background: rgb(255, 255, 255);
+    border: 1px solid lightgray;
+    padding:5px;
+}
+
+.ui-datepicker table tbody tr:hover  {
+    background-color:#fff;
+}
+
+
+.ui-datepicker table tbody tr td:hover {
+    background:lightgray;
+}
+.ui-corner-all {
+    margin-right:10px;
+    cursor:pointer;
+    float:right;
+}

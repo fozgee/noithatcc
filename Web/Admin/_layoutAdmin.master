@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="_layoutAdmin.master.cs" Inherits="_layoutAdmin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Admin</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="css/styleAdmin.css" rel="stylesheet" />
+    <script src="../Scripts/jquery-1.10.2.min.js"></script>
+    <script src="../Scripts/knockout-2.3.0.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <header>
+        <div class="left">
+            <span>Noithatzim Admin</span>
+        </div>
+        <div class="menuAccout right">
+            Hi, <%=Session["account"] %>
+           <span> <a href="logout.aspx" style="color:#fff">(Logout)</a></span>
+        </div>
+    </header>
+    <div class="body">
+        <div class="leftMenu">
+            <ul class="mainMenu">
+                <li><a href="/admin">Home</a></li>
+                <li><a href="news.aspx">Tin tức</a></li>
+                <li><a href="accounts.aspx">Quản lý tài khoản</a></li>
+                <li><a>Quản lý ảnh</a></li>
+                
+            </ul>
+        </div>
+        <div class="mainContent">
+             <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    <footer>
+
+    </footer>
+    </form>
+</body>
+</html>

@@ -1,0 +1,6 @@
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\Fozg.DataController\bin\Debug\Fozg.DataController.dll.config
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\Fozg.DataController\bin\Debug\Fozg.DataController.dll
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\Fozg.DataController\bin\Debug\Fozg.DataController.pdb
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\Fozg.DataController\obj\Debug\Fozg.DataController.csprojResolveAssemblyReference.cache
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\Fozg.DataController\obj\Debug\Fozg.DataController.dll
+C:\Users\fozg\Documents\Visual Studio 2015\Projects\NoiThatCC\Fozg.DataController\obj\Debug\Fozg.DataController.pdb
